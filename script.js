@@ -1,3 +1,3 @@
 
-let yourArray = ["Kyamu",24,true, null,undefined];
+let yourArray = ["hello", 42, true, null, "world"];
 console.log(yourArray.length);
