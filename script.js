@@ -1,3 +1,4 @@
 
-let yourArray = ["hello", 42, true, null, "world"];
+let yourArray = ['apple', 25, true, 'banana', false];
+
 console.log(yourArray.length);
